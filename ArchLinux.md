@@ -383,18 +383,13 @@ We are almost done with the arch linux set up. Now we need to exit out of the ch
 ```
 # exit
 ```
-
-Finally, we want to reboot the system with:
-
-```
-# reboot
-```
+Once exiting we want to shutdown the virtual machine and remove the installation medium. Go to the settings of the virtual machine. Open CD/DISK, click advanced options, remove .iso disk.
 
 ## Step 11 - Configuring the DE (Desktop Environment)
 
 ### 11.1
 
-Once you have rebooted the system, let to boot into the terminal and login with root. 
+Once you have restarted the system, let to boot into the terminal and login with root. 
 
 **IMPORTANT!!!**
 

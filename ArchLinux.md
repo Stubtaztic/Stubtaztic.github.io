@@ -465,6 +465,11 @@ zsh
 ```
 Save and exit.
 
+The project requires that we install a package from AUR as well. To be able to do this, we need to install the contents of `base-devel`.
+
+```
+# pacman -Syy base-devel
+```
 Lastly, we will give each user a home directory.
 
 ```

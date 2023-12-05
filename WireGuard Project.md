@@ -50,8 +50,8 @@ docker-compose up -d
 I then downloaded Wireguard on my phone and laptop to test the VPN. I was able to get the mobile VPN working but the laptop wouldn't load a website. Then phone was also running very slow so I don't know if there was a error along the way but I followed the provided instruction guide on the slides.
 
 Here are my pictures showing the VPN working:
-![iPhone(Active)](iPhone(Active).jpg)
-![iPhone(Off)](iPhone(Off).jpg)
-![iPhone(On)](iPhone(On).jpg)
-![Laptop(Off)](Laptop(Active).jpg)
-![Laptop(Active)](iPhone(On).jpg)
+![iPhone(Active)](iPhone(Active).PNG)
+![iPhone(Off)](iPhone(Off).PNG)
+![iPhone(On)](iPhone(On).PNG)
+![Laptop(Off)](Laptop(Active).png)
+![Laptop(Active)](iPhone(On).png)

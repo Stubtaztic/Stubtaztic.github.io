@@ -53,5 +53,5 @@ Here are my pictures showing the VPN working:
 ![iPhone(Active)](iPhone(Active).PNG)
 ![iPhone(Off)](iPhone(Off).PNG)
 ![iPhone(On)](iPhone(On).PNG)
-![Laptop(Off)](Laptop(Off).png)
+![Laptop](Laptop.png)
 ![Laptop(Active)](Laptop(Active).png)
